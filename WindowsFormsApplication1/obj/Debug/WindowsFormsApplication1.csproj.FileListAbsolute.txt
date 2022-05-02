@@ -1,0 +1,16 @@
+D:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\График\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\График\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\График\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\График\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\График\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\График\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\График\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\График\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\График\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+H:\График\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+H:\График\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+H:\График\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+H:\Работа 9 вариант 6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+H:\Работа 9 вариант 6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+H:\Работа 9 вариант 6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
